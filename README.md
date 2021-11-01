@@ -1,5 +1,8 @@
 # myexperiment
 
+# konuşarak ogren için hazırlanmış projenin tüm dosyaları eklendi
+
+
 
 ![gorsel1](https://github.com/YigitcanGuney/myexperiment/blob/main/konusarak-ogren/img/gorsel1.PNG)
 
